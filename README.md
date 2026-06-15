@@ -32,13 +32,13 @@ Project management workboard for AI agents. Provides a kanban-style board with c
 
 ## Features
 
-- **Kanban Columns**: Backlog, Todo, In Progress, Review, Done
-- **Card Management**: Create, update, move, and delete task cards
-- **Priorities**: Low, Normal, High, Critical
-- **Dependencies**: Link cards with dependency tracking and cycle detection
-- **Workflow Validation**: Enforces valid column transitions
-- **Agent Tools**: JSON-schema validated tools for AI agent integration
-- **Persistence**: Optional storage via omnistorage-core
+- 📋 **Kanban Columns**: Backlog, Todo, In Progress, Review, Done
+- 🗂️ **Card Management**: Create, update, move, and delete task cards
+- 🎯 **Priorities**: Low, Normal, High, Critical
+- 🔗 **Dependencies**: Link cards with dependency tracking and cycle detection
+- ✅ **Workflow Validation**: Enforces valid column transitions
+- 🤖 **Agent Tools**: JSON-schema validated tools for AI agent integration
+- 💾 **Persistence**: Optional storage via omnistorage-core
 
 ## Installation
 
