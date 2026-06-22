@@ -1,6 +1,6 @@
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/plexusone/omniskill v0.8.0 h1:ktIWX4Ue7z+oVuycB94+syOXTxAlaFAyxOiRCWlz/Tw=
-github.com/plexusone/omniskill v0.8.0/go.mod h1:sXUNM1quieLAzGcqe7mffcgGpOsVXTXps1yiFKcIEnQ=
+github.com/plexusone/omniskill v0.9.0 h1:QrOyJ2BWIpYcaW8lTtYxHQUWmLUq4+nAcW9CJ5OImm4=
+github.com/plexusone/omniskill v0.9.0/go.mod h1:L0MW5av6S0EkgGByFMwDmTJBy/7h8ourBmQ5xxM2vQI=
 github.com/plexusone/omnistorage-core v0.5.0 h1:gORFoef2hysWTbn2/ndWoAQFsL0PRG6pSxNvTdAnPMI=
 github.com/plexusone/omnistorage-core v0.5.0/go.mod h1:YIUrTHj75Z8lSSRE/4ZaLF+DZvLQJGC2OU0ctjPfg8Y=
